@@ -1,0 +1,50 @@
+body {
+    background-color: #333333;
+    background-image: url("nasa_background.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.paragraphe_code {
+    color: aliceblue;
+    margin-top: 350px;
+    text-align: center;
+}
+
+.titre_formulaire {
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    color: aliceblue;
+}
+
+.form_login {
+    display: flex;
+    justify-content: center;
+    margin-top: 630px;
+}
+
+.form_password {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.form_button {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#no_valid {
+    font-size: 24px;
+    margin-top: 360px;
+    color: aliceblue;
+    text-align: center;
+
+}
